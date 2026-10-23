@@ -18,8 +18,6 @@
 [rank] K-1 TRAVESIA OPEN MASCULINO - K-1 TRAVESIA OPEN MASCULINO: 6 inscripciones
 [rank] K-1 TRAVESIA OPEN FEMENINO - K-1 TRAVESIA OPEN FEMENINO: 4 inscripciones
 [rank] C-1 CADETE FEMENINO - C-1 CADETE FEMENINO: 5 inscripciones
-  - dorsal 81 club N.QUILLON pos=1 pts=10 (acum=10)
-  - dorsal 27 club N.BIO-BIO pos=2 pts=8 (acum=8)
 [rank] C-1 CADETE MASCULINO - C-1 CADETE MASCULINO: 0 inscripciones
 [rank] C-1 MENOR FEMENINO - C-1 MENOR FEMENINO: 1 inscripciones
 [rank] C-1 MENOR MASCULINO - C-1 MENOR MASCULINO: 2 inscripciones
