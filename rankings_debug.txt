@@ -93,6 +93,9 @@
 [rank] K-2 OLIMPICO MENOR MASCULINO - K-2 OLIMPICO MENOR MASCULINO: 4 inscripciones
   - dorsal 5 club N.BIO-BIO pos=1 pts=10 (acum=274)
 [rank] K-2 TRAVESIA OPEN MIXTO - K-2 TRAVESIA OPEN MIXTO: 5 inscripciones
+  - dorsal 7 club N.BIO-BIO pos=1 pts=10 (acum=284)
+  - dorsal 5 club N.BIO-BIO pos=2 pts=8 (acum=292)
+  - dorsal 1 club N.BIO-BIO pos=3 pts=7 (acum=299)
 [rank] K-2 TRAVESIA MASTER A FEMENINO - K-2 TRAVESIA MASTER A FEMENINO: 1 inscripciones
 [rank] K-2 TRAVESIA MASTER B FEMENINO - K-2 TRAVESIA MASTER B FEMENINO: 0 inscripciones
 [rank] K-2 TRAVESIA OPEN FEMENINO - K-2 TRAVESIA OPEN FEMENINO: 1 inscripciones
