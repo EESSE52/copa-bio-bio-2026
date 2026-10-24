@@ -17,67 +17,68 @@
 [rank] C-1 SENIOR FEMENINO - C-1 SENIOR FEMENINO: 1 inscripciones
   - dorsal 9 club N.BIO-BIO pos=1 pts=10 (acum=48)
 [rank] C-1 SENIOR MASCULINO - C-1 SENIOR MASCULINO: 0 inscripciones
-[rank] K-1 JUNIOR FEMENINO - K-1 JUNIOR FEMENINO: 3 inscripciones
+[rank] K-1 JUNIOR FEMENINO - K-1 JUNIOR FEMENINO: 4 inscripciones
+  - dorsal 8 club N.BIO-BIO pos=1 pts=10 (acum=58)
   - dorsal 1 club N.QUILLON pos=2 pts=8 (acum=8)
 [rank] K-1 JUNIOR MASCULINO - K-1 JUNIOR MASCULINO: 4 inscripciones
-  - dorsal 22 club N.BIO-BIO pos=1 pts=10 (acum=58)
-  - dorsal 23 club N.BIO-BIO pos=2 pts=8 (acum=66)
-  - dorsal 24 club N.BIO-BIO pos=3 pts=7 (acum=73)
+  - dorsal 22 club N.BIO-BIO pos=1 pts=10 (acum=68)
+  - dorsal 23 club N.BIO-BIO pos=2 pts=8 (acum=76)
+  - dorsal 24 club N.BIO-BIO pos=3 pts=7 (acum=83)
 [rank] K-1 OLIMPICO MASTER A FEMENINO - K-1 OLIMPICO MASTER A FEMENINO: 0 inscripciones
 [rank] K-1 OLIMPICO MASTER A MASCULINO - K-1 OLIMPICO MASTER A MASCULINO: 5 inscripciones
-  - dorsal 10 club N.BIO-BIO pos=1 pts=10 (acum=83)
+  - dorsal 10 club N.BIO-BIO pos=1 pts=10 (acum=93)
 [rank] K-1 OLIMPICO MASTER B FEMENINO - K-1 OLIMPICO MASTER B FEMENINO: 0 inscripciones
 [rank] K-1 OLIMPICO MASTER B MASCULINO - K-1 OLIMPICO MASTER B MASCULINO: 0 inscripciones
 [rank] K-1 SENIOR FEMENINO - K-1 SENIOR FEMENINO: 2 inscripciones
-  - dorsal 43 club N.BIO-BIO pos=1 pts=10 (acum=93)
-  - dorsal 6 club N.BIO-BIO pos=2 pts=8 (acum=101)
+  - dorsal 43 club N.BIO-BIO pos=1 pts=10 (acum=103)
+  - dorsal 6 club N.BIO-BIO pos=2 pts=8 (acum=111)
 [rank] K-1 SENIOR MASCULINO - K-1 SENIOR MASCULINO: 5 inscripciones
   - dorsal 6 club CANOAS IMPERILA pos=1 pts=10 (acum=10)
-  - dorsal 19 club N.BIO-BIO pos=2 pts=8 (acum=109)
+  - dorsal 19 club N.BIO-BIO pos=2 pts=8 (acum=119)
   - dorsal 5 club SÑ.LAJA pos=3 pts=7 (acum=7)
 [rank] C-1 CADETE FEMENINO - C-1 CADETE FEMENINO: 1 inscripciones
-  - dorsal 27 club N.BIO-BIO pos=1 pts=10 (acum=119)
+  - dorsal 27 club N.BIO-BIO pos=1 pts=10 (acum=129)
 [rank] C-1 CADETE MASCULINO - C-1 CADETE MASCULINO: 0 inscripciones
 [rank] K-1 CADETE FEMENINO - K-1 CADETE FEMENINO: 4 inscripciones
-  - dorsal 29 club N.BIO-BIO pos=1 pts=10 (acum=129)
+  - dorsal 29 club N.BIO-BIO pos=1 pts=10 (acum=139)
 [rank] K-1 CADETE MASCULINO - K-1 CADETE MASCULINO: 8 inscripciones
   - dorsal 89 club N.QUILLON pos=1 pts=10 (acum=18)
-  - dorsal 18 club N.BIO-BIO pos=2 pts=8 (acum=137)
+  - dorsal 18 club N.BIO-BIO pos=2 pts=8 (acum=147)
 [rank] C-1 MENOR FEMENINO - C-1 MENOR FEMENINO: 1 inscripciones
-  - dorsal 28 club N.BIO-BIO pos=1 pts=10 (acum=147)
+  - dorsal 28 club N.BIO-BIO pos=1 pts=10 (acum=157)
 [rank] C-1 MENOR MASCULINO - C-1 MENOR MASCULINO: 1 inscripciones
 [rank] K-1 MENOR FEMENINO - K-1 MENOR FEMENINO: 8 inscripciones
-  - dorsal 15 club N.BIO-BIO pos=1 pts=10 (acum=157)
+  - dorsal 15 club N.BIO-BIO pos=1 pts=10 (acum=167)
 [rank] K-1 MENOR MASCULINO - K-1 MENOR MASCULINO: 11 inscripciones
-  - dorsal 14 club N.BIO-BIO pos=1 pts=10 (acum=167)
-  - dorsal 17 club N.BIO-BIO pos=3 pts=7 (acum=174)
-  - dorsal 16 club N.BIO-BIO pos=4 pts=6 (acum=180)
+  - dorsal 14 club N.BIO-BIO pos=1 pts=10 (acum=177)
+  - dorsal 17 club N.BIO-BIO pos=3 pts=7 (acum=184)
+  - dorsal 16 club N.BIO-BIO pos=4 pts=6 (acum=190)
   - dorsal 86 club N.QUILLON pos=6 pts=4 (acum=22)
 [rank] K-1 INFANTIL OLIMPICO MASCULINO - K-1 INFANTIL OLIMPICO MASCULINO: 2 inscripciones
-  - dorsal 26 club N.BIO-BIO pos=1 pts=10 (acum=190)
+  - dorsal 26 club N.BIO-BIO pos=1 pts=10 (acum=200)
 [rank] K-1 INFANTIL OLIMPICO FEMENINO - K-1 INFANTIL OLIMPICO FEMENINO: 5 inscripciones
-  - dorsal 6 club N.BIO-BIO pos=1 pts=10 (acum=200)
+  - dorsal 6 club N.BIO-BIO pos=1 pts=10 (acum=210)
   - dorsal 2 club SÑ.LAJA pos=2 pts=8 (acum=15)
-  - dorsal 7 club N.BIO-BIO pos=4 pts=6 (acum=206)
+  - dorsal 7 club N.BIO-BIO pos=4 pts=6 (acum=216)
 [rank] K-1 INFANTIL ESCUELA MASCULINO - K-1 INFANTIL ESCUELA MASCULINO: 6 inscripciones
   - dorsal 80 club N.QUILLON pos=1 pts=10 (acum=32)
 [rank] K-1 INFANTIL ESCUELA FEMENINO - K-1 INFANTIL ESCUELA FEMENINO: 10 inscripciones
-  - dorsal 4 club N.BIO-BIO pos=1 pts=10 (acum=216)
-  - dorsal 11 club N.BIO-BIO pos=2 pts=8 (acum=224)
+  - dorsal 4 club N.BIO-BIO pos=1 pts=10 (acum=226)
+  - dorsal 11 club N.BIO-BIO pos=2 pts=8 (acum=234)
   - dorsal 9 club SÑ.LAJA pos=3 pts=7 (acum=22)
   - dorsal 8 club SÑ.LAJA pos=4 pts=6 (acum=28)
   - dorsal 81 club N.QUILLON pos=5 pts=5 (acum=37)
 [rank] K-1 PREINFANTIL ESCUELA FEMENINO - K-1 PREINFANTIL ESCUELA FEMENINO: 7 inscripciones
   - dorsal 4 club SÑ.LAJA pos=1 pts=10 (acum=38)
-  - dorsal 9 club N.BIO-BIO pos=2 pts=8 (acum=232)
+  - dorsal 9 club N.BIO-BIO pos=2 pts=8 (acum=242)
   - dorsal 5 club SÑ.LAJA pos=3 pts=7 (acum=45)
 [rank] K-1 PREINFANTIL ESCUELA MASCULINO - K-1 PREINFANTIL ESCUELA MASCULINO: 9 inscripciones
   - dorsal 6 club SÑ.LAJA pos=1 pts=10 (acum=55)
   - dorsal 2 club SÑ.LAJA pos=2 pts=8 (acum=63)
-  - dorsal 7 club N.BIO-BIO pos=3 pts=7 (acum=239)
-  - dorsal 8 club N.BIO-BIO pos=4 pts=6 (acum=245)
-  - dorsal 15 club N.BIO-BIO pos=5 pts=5 (acum=250)
-  - dorsal 1 club N.BIO-BIO pos=6 pts=4 (acum=254)
+  - dorsal 7 club N.BIO-BIO pos=3 pts=7 (acum=249)
+  - dorsal 8 club N.BIO-BIO pos=4 pts=6 (acum=255)
+  - dorsal 15 club N.BIO-BIO pos=5 pts=5 (acum=260)
+  - dorsal 1 club N.BIO-BIO pos=6 pts=4 (acum=264)
 [rank] K-2 OLIMPICO MASTER A MASCULINO - K-2 OLIMPICO MASTER A MASCULINO: 0 inscripciones
 [rank] K-2 OLIMPICO MASTER B MASCULINO - K-2 OLIMPICO MASTER B MASCULINO: 0 inscripciones
 [rank] K-2 OLIMPICO SENIOR MASCULINO - K-2 OLIMPICO SENIOR MASCULINO: 1 inscripciones
@@ -88,20 +89,20 @@
 [rank] K-2 OLIMPICO JUNIOR MASCULINO - K-2 OLIMPICO JUNIOR MASCULINO: 2 inscripciones
 [rank] K-2 OLIMPICO CADETE FEMENINO - K-2 OLIMPICO CADETE FEMENINO: 1 inscripciones
 [rank] K-2 OLIMPICO MENOR FEMENINO - K-2 OLIMPICO MENOR FEMENINO: 5 inscripciones
-  - dorsal 9 club N.BIO-BIO pos=1 pts=10 (acum=264)
+  - dorsal 9 club N.BIO-BIO pos=1 pts=10 (acum=274)
 [rank] K-2 OLIMPICO CADETE MASCULINO - K-2 OLIMPICO CADETE MASCULINO: 3 inscripciones
 [rank] K-2 OLIMPICO MENOR MASCULINO - K-2 OLIMPICO MENOR MASCULINO: 4 inscripciones
-  - dorsal 5 club N.BIO-BIO pos=1 pts=10 (acum=274)
+  - dorsal 5 club N.BIO-BIO pos=1 pts=10 (acum=284)
 [rank] K-2 TRAVESIA OPEN MIXTO - K-2 TRAVESIA OPEN MIXTO: 5 inscripciones
-  - dorsal 7 club N.BIO-BIO pos=1 pts=10 (acum=284)
-  - dorsal 5 club N.BIO-BIO pos=2 pts=8 (acum=292)
-  - dorsal 1 club N.BIO-BIO pos=3 pts=7 (acum=299)
+  - dorsal 7 club N.BIO-BIO pos=1 pts=10 (acum=294)
+  - dorsal 5 club N.BIO-BIO pos=2 pts=8 (acum=302)
+  - dorsal 1 club N.BIO-BIO pos=3 pts=7 (acum=309)
 [rank] K-2 TRAVESIA MASTER A FEMENINO - K-2 TRAVESIA MASTER A FEMENINO: 1 inscripciones
 [rank] K-2 TRAVESIA MASTER B FEMENINO - K-2 TRAVESIA MASTER B FEMENINO: 0 inscripciones
 [rank] K-2 TRAVESIA OPEN FEMENINO - K-2 TRAVESIA OPEN FEMENINO: 1 inscripciones
 [rank] K2 TRAVESIA OPEN MASTER MIXTO - K2 TRAVESIA OPEN MASTER MIXTO: 1 inscripciones
 [rank] K2 E PREINFANTIL MASCULINO - K2 E PREINFANTIL MASCULINO: 1 inscripciones
-  - dorsal 1 club N.BIO-BIO pos=1 pts=10 (acum=309)
+  - dorsal 1 club N.BIO-BIO pos=1 pts=10 (acum=319)
 [rank] K2 E PREINFANTIL FEMENINO - K2 E PREINFANTIL FEMENINO: 1 inscripciones
   - dorsal 9 club SÑ.LAJA pos=1 pts=10 (acum=73)
 [rank] K1 OPEN SIT ON TOP MASCULINO - K1 OPEN SIT ON TOP MASCULINO: 5 inscripciones
