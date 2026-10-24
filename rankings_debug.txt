@@ -48,7 +48,11 @@
 [rank] K-1 MENOR FEMENINO - K-1 MENOR FEMENINO: 8 inscripciones
 [rank] K-1 MENOR MASCULINO - K-1 MENOR MASCULINO: 11 inscripciones
 [rank] K-1 INFANTIL OLIMPICO MASCULINO - K-1 INFANTIL OLIMPICO MASCULINO: 2 inscripciones
+  - dorsal 26 club N.BIO-BIO pos=1 pts=10 (acum=147)
 [rank] K-1 INFANTIL OLIMPICO FEMENINO - K-1 INFANTIL OLIMPICO FEMENINO: 5 inscripciones
+  - dorsal 6 club N.BIO-BIO pos=1 pts=10 (acum=157)
+  - dorsal 2 club SÑ.LAJA pos=2 pts=8 (acum=15)
+  - dorsal 7 club N.BIO-BIO pos=4 pts=6 (acum=163)
 [rank] K-1 INFANTIL ESCUELA MASCULINO - K-1 INFANTIL ESCUELA MASCULINO: 6 inscripciones
 [rank] K-1 INFANTIL ESCUELA FEMENINO - K-1 INFANTIL ESCUELA FEMENINO: 10 inscripciones
 [rank] K-1 PREINFANTIL ESCUELA FEMENINO - K-1 PREINFANTIL ESCUELA FEMENINO: 7 inscripciones
